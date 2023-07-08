@@ -156,7 +156,7 @@ input[type="checkbox"]:checked {
 .complete{
     word-wrap: break-word;
     text-decoration-color: rgb(89, 89, 89);
-    color: rgb(116, 116, 116);
+    color: rgb(152,152,152);
    
 }
 .fa-list-check{
