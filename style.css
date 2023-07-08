@@ -148,7 +148,6 @@ input[type="checkbox"]:checked {
 }
 .para{
     padding-left: 8px;
-    text-transform: capitalize;
     max-width: 350px;
 }
 .para:focus{
