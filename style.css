@@ -154,7 +154,6 @@ input[type="checkbox"]:checked {
     outline: none;
 }
 .complete{
-    text-decoration: line-through;
     word-wrap: break-word;
     text-decoration-color: rgb(89, 89, 89);
     color: rgb(116, 116, 116);
